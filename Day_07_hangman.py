@@ -42,10 +42,3 @@ while not end_of_game and lives > 0:
         print("You win.")
 
     print(stages[lives])
-
-
-
-
-
-
-
